@@ -26,8 +26,3 @@ Search -> Verify -> Re-search if confidence Low -> Analyze -> Score -> Save
 
 ## Tested on
 LobeHub, Radiq, Linear, Notion
-
-## Screenshots
-![Analysis](Screenshot%20(429).png)
-
-![Comparison](Screenshot%20(430).png)
