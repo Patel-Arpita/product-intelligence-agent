@@ -1,5 +1,6 @@
 # Product Intelligence Agent
 An AI agent that researches and scores products like a VC analyst.
+
 Give it a product name. It searches the web, verifies the results are actually about the right product, analyzes it, scores it across four dimensions, and saves it to memory. If confidence in the search results is low, it searches again automatically before analyzing.
 
 ## Features
