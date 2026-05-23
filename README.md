@@ -15,6 +15,7 @@ Python, Streamlit, Groq API (LLaMA 3.3 70B), DuckDuckGo Search
 
 ## Setup
 pip install streamlit groq ddgs pyngrok
+
 streamlit run app.py
 
 Add your Groq API key in the sidebar. Free key at console.groq.com
